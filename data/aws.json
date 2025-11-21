@@ -1,0 +1,151 @@
+[{
+        "question": "What does AWS stand for?",
+        "options": ["Amazon Web Services", "Advanced Web Services", "Applied Web Storage", "Amazon Web Storage"],
+        "correct": 0
+    },
+    {
+        "question": "Which AWS service is used for virtual servers?",
+        "options": ["S3", "Lambda", "EC2", "RDS"],
+        "correct": 2
+    },
+    {
+        "question": "Which AWS service is used for object storage?",
+        "options": ["EBS", "S3", "RDS", "EC2"],
+        "correct": 1
+    },
+    {
+        "question": "Which database service is fully managed by AWS?",
+        "options": ["MySQL Manual", "RDS", "Oracle Cloud", "Mongo Local"],
+        "correct": 1
+    },
+    {
+        "question": "Which AWS service provides serverless computing?",
+        "options": ["EC2", "Lambda", "Lightsail", "CloudWatch"],
+        "correct": 1
+    },
+    {
+        "question": "What is the default storage class in S3?",
+        "options": ["Glacier", "Standard", "Intelligent Tiering", "One Zone"],
+        "correct": 1
+    },
+    {
+        "question": "Which tool is used to monitor AWS resources?",
+        "options": ["CloudTrail", "CloudWatch", "Inspector", "X-Ray"],
+        "correct": 1
+    },
+    {
+        "question": "What is IAM used for?",
+        "options": ["Backup", "Security and Access Management", "Hosting Websites", "Networking"],
+        "correct": 1
+    },
+    {
+        "question": "Which AWS service is used for content delivery?",
+        "options": ["Route 53", "CloudFront", "Load Balancer", "SQS"],
+        "correct": 1
+    },
+    {
+        "question": "What is VPC in AWS?",
+        "options": ["Virtual Private Connection", "Virtual Public Cloud", "Virtual Private Cloud", "Virtual Public Connection"],
+        "correct": 2
+    },
+    {
+        "question": "Which service is used for DNS management?",
+        "options": ["CloudFront", "Route 53", "EC2", "Elastic Beanstalk"],
+        "correct": 1
+    },
+    {
+        "question": "Which AWS service is best for long-term archival storage?",
+        "options": ["EFS", "S3 Standard", "S3 Glacier", "DynamoDB"],
+        "correct": 2
+    },
+    {
+        "question": "Which database is NoSQL on AWS?",
+        "options": ["Aurora", "MySQL", "DynamoDB", "RDS"],
+        "correct": 2
+    },
+    {
+        "question": "Which service automatically scales EC2 instances?",
+        "options": ["CloudWatch", "Auto Scaling", "SNS", "SQS"],
+        "correct": 1
+    },
+    {
+        "question": "Which service manages Docker containers?",
+        "options": ["Lambda", "ECR/ECS", "LightSail", "ElasticCache"],
+        "correct": 1
+    },
+    {
+        "question": "What type of storage is EBS?",
+        "options": ["Block Storage", "Object Storage", "File Storage", "Tape Storage"],
+        "correct": 0
+    },
+    {
+        "question": "Which AWS service is used for message queuing?",
+        "options": ["SNS", "SQS", "SES", "ECS"],
+        "correct": 1
+    },
+    {
+        "question": "Which service is used for email sending?",
+        "options": ["SNS", "SES", "SQS", "WorkMail"],
+        "correct": 1
+    },
+    {
+        "question": "Which AWS service analyzes logs?",
+        "options": ["CloudTrail", "CloudWatch Logs", "Inspector", "GuardDuty"],
+        "correct": 1
+    },
+    {
+        "question": "AWS Lambda is billed based on:",
+        "options": ["Hourly usage", "Monthly usage", "Number of requests + execution time", "Storage capacity"],
+        "correct": 2
+    },
+    {
+        "question": "Which service provides distributed denial-of-service protection?",
+        "options": ["AWS Shield", "GuardDuty", "Inspector", "Macie"],
+        "correct": 0
+    },
+    {
+        "question": "Which AWS service stores files that can be shared across multiple EC2 servers?",
+        "options": ["EBS", "EFS", "Glacier", "Local Disk"],
+        "correct": 1
+    },
+    {
+        "question": "AWS CloudFormation is used for:",
+        "options": ["Data storage", "Infrastructure automation", "Monitoring", "Email service"],
+        "correct": 1
+    },
+    {
+        "question": "Which AWS service is used to deploy web applications easily?",
+        "options": ["Elastic Beanstalk", "Route 53", "GuardDuty", "RDS"],
+        "correct": 0
+    },
+    {
+        "question": "What is the maximum size of a single S3 file?",
+        "options": ["1 GB", "5 GB", "5 TB", "10 TB"],
+        "correct": 2
+    },
+    {
+        "question": "S3 is a:",
+        "options": ["File system", "Object storage", "Block storage", "Database"],
+        "correct": 1
+    },
+    {
+        "question": "Which AWS service provides identity federation?",
+        "options": ["IAM", "Cognito", "CloudTrail", "SSO"],
+        "correct": 1
+    },
+    {
+        "question": "Which AWS offering is Platform as a Service (PaaS)?",
+        "options": ["EC2", "S3", "Elastic Beanstalk", "IAM"],
+        "correct": 2
+    },
+    {
+        "question": "Which AWS service checks for security vulnerabilities?",
+        "options": ["Inspector", "SNS", "SES", "X-Ray"],
+        "correct": 0
+    },
+    {
+        "question": "What does AWS CloudTrail track?",
+        "options": ["Billing", "User activity and API calls", "Storage usage", "Application logs"],
+        "correct": 1
+    }
+]

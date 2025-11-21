@@ -1,0 +1,151 @@
+[{
+        "question": "What is Machine Learning?",
+        "options": ["A programming language", "A method to make machines learn from data", "A type of hardware", "A database system"],
+        "correct": 1
+    },
+    {
+        "question": "Which of the following is a type of Machine Learning?",
+        "options": ["Supervised Learning", "Cloud Learning", "Web Learning", "Domain Learning"],
+        "correct": 0
+    },
+    {
+        "question": "Which algorithm is used for classification?",
+        "options": ["Linear Regression", "KNN", "K-Means", "PCA"],
+        "correct": 1
+    },
+    {
+        "question": "Which algorithm is used for clustering?",
+        "options": ["SVM", "K-Means", "Random Forest", "Logistic Regression"],
+        "correct": 1
+    },
+    {
+        "question": "What does 'label' mean in ML?",
+        "options": ["Input variable", "Output variable", "Hyperparameter", "Dataset name"],
+        "correct": 1
+    },
+    {
+        "question": "Which metric is used for regression?",
+        "options": ["Accuracy", "Recall", "MSE", "F1 Score"],
+        "correct": 2
+    },
+    {
+        "question": "Which ML model is typically used for spam detection?",
+        "options": ["Regression", "Classification", "Clustering", "Dimensionality reduction"],
+        "correct": 1
+    },
+    {
+        "question": "What is 'overfitting'?",
+        "options": ["Model performs well everywhere", "Model performs poorly on training data", "Model memorizes training data but fails on new data", "Model generalizes well"],
+        "correct": 2
+    },
+    {
+        "question": "What is 'underfitting'?",
+        "options": ["Model is too simple", "Model is too complex", "Model performs perfectly", "None"],
+        "correct": 0
+    },
+    {
+        "question": "What is the purpose of train-test split?",
+        "options": ["To increase dataset size", "To evaluate model performance", "To tune hyperparameters", "To remove missing values"],
+        "correct": 1
+    },
+    {
+        "question": "Which of these is a supervised algorithm?",
+        "options": ["K-Means", "DBSCAN", "Decision Tree", "PCA"],
+        "correct": 2
+    },
+    {
+        "question": "Which library is used for Machine Learning in Python?",
+        "options": ["NumPy", "Pandas", "scikit-learn", "Flask"],
+        "correct": 2
+    },
+    {
+        "question": "Which algorithm is used for dimensionality reduction?",
+        "options": ["KNN", "PCA", "SVM", "Decision Tree"],
+        "correct": 1
+    },
+    {
+        "question": "What does SVM stand for?",
+        "options": ["System Vector Machine", "Support Vector Machine", "Simple Vector Model", "Supervised Variable Model"],
+        "correct": 1
+    },
+    {
+        "question": "Which technique helps reduce overfitting?",
+        "options": ["Regularization", "Increasing parameters", "Removing test data", "Using more epochs"],
+        "correct": 0
+    },
+    {
+        "question": "What is the purpose of an activation function in neural networks?",
+        "options": ["To activate GPU", "To make model linear", "To introduce non-linearity", "To increase dataset"],
+        "correct": 2
+    },
+    {
+        "question": "Which algorithm is used for recommendation systems?",
+        "options": ["Naive Bayes", "Collaborative Filtering", "K-Means", "PCA"],
+        "correct": 1
+    },
+    {
+        "question": "Gradient Descent is used to:",
+        "options": ["Increase accuracy", "Optimize loss function", "Shuffle data", "Split data"],
+        "correct": 1
+    },
+    {
+        "question": "Which term refers to the difference between predicted and actual values?",
+        "options": ["Accuracy", "Loss", "Epoch", "Feature"],
+        "correct": 1
+    },
+    {
+        "question": "Which model is best for predicting continuous values?",
+        "options": ["Classification", "Clustering", "Linear Regression", "SVM"],
+        "correct": 2
+    },
+    {
+        "question": "Which feature scaling method converts values between 0 and 1?",
+        "options": ["Standardization", "Min-Max Scaling", "Normalization", "Both B and C"],
+        "correct": 3
+    },
+    {
+        "question": "Random Forest is made up of:",
+        "options": ["One decision tree", "Multiple decision trees", "Only neural networks", "Only SVM models"],
+        "correct": 1
+    },
+    {
+        "question": "Which term refers to the number of times the model sees the full dataset?",
+        "options": ["Batch size", "Epoch", "Iteration", "Step"],
+        "correct": 1
+    },
+    {
+        "question": "Which is an unsupervised ML task?",
+        "options": ["Regression", "Clustering", "Classification", "Time series forecasting"],
+        "correct": 1
+    },
+    {
+        "question": "Which of the following is a deep learning framework?",
+        "options": ["TensorFlow", "NumPy", "Flask", "Bootstrap"],
+        "correct": 0
+    },
+    {
+        "question": "In ML, features represent:",
+        "options": ["Output values", "Input variables", "Errors", "Model types"],
+        "correct": 1
+    },
+    {
+        "question": "Logistic Regression is used for:",
+        "options": ["Regression only", "Clustering", "Binary classification", "Data cleaning"],
+        "correct": 2
+    },
+    {
+        "question": "The opposite of overfitting is:",
+        "options": ["Good fitting", "Underfitting", "Accuracy", "Generalization"],
+        "correct": 1
+    },
+    {
+        "question": "Which algorithm finds nearest neighbors based on distance?",
+        "options": ["KNN", "Random Forest", "SVM", "Naive Bayes"],
+        "correct": 0
+    },
+    {
+        "question": "Which part of ML pipeline handles missing values?",
+        "options": ["Modeling", "Preprocessing", "Evaluation", "Prediction"],
+        "correct": 1
+    }
+]

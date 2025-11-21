@@ -1,0 +1,151 @@
+[{
+        "question": "What does HTML stand for?",
+        "options": ["Hyper Trainer Marking Language", "Hyper Text Markup Language", "Hyper Text Markdown Language", "High Text Marking Language"],
+        "correct": 1
+    },
+    {
+        "question": "Which tag is used to insert an image in HTML?",
+        "options": ["<img>", "<image>", "<src>", "<pic>"],
+        "correct": 0
+    },
+    {
+        "question": "Which property in CSS is used to change text color?",
+        "options": ["font-color", "text-style", "color", "foreground"],
+        "correct": 2
+    },
+    {
+        "question": "JavaScript is a ____ language.",
+        "options": ["Server-side", "Database", "Programming", "Markup"],
+        "correct": 2
+    },
+    {
+        "question": "Which symbol is used for comments in CSS?",
+        "options": ["// comment", "<!-- comment -->", "/* comment */", "# comment"],
+        "correct": 2
+    },
+    {
+        "question": "Which HTML tag is used for the largest heading?",
+        "options": ["<h3>", "<h6>", "<h1>", "<header>"],
+        "correct": 2
+    },
+    {
+        "question": "Which CSS property controls the size of text?",
+        "options": ["font-size", "text-style", "text-size", "font-weight"],
+        "correct": 0
+    },
+    {
+        "question": "What does CSS stand for?",
+        "options": ["Cascading Style Sheets", "Central Style System", "Creative Style Setup", "Cascading Sheet Styles"],
+        "correct": 0
+    },
+    {
+        "question": "Which HTML tag is used to create a hyperlink?",
+        "options": ["<a>", "<link>", "<href>", "<hyper>"],
+        "correct": 0
+    },
+    {
+        "question": "Inside which HTML element do we write JavaScript?",
+        "options": ["<javascript>", "<js>", "<script>", "<code>"],
+        "correct": 2
+    },
+    {
+        "question": "Which method is used to output data in JavaScript?",
+        "options": ["console.log()", "print()", "echo()", "display()"],
+        "correct": 0
+    },
+    {
+        "question": "Which HTML attribute sets an image's alternate text?",
+        "options": ["alt", "title", "name", "desc"],
+        "correct": 0
+    },
+    {
+        "question": "Which layout uses Flexbox in CSS?",
+        "options": ["display: block;", "display: inline;", "display: flex;", "display: grid;"],
+        "correct": 2
+    },
+    {
+        "question": "Which of these is NOT a JavaScript data type?",
+        "options": ["String", "Boolean", "Float", "Object"],
+        "correct": 2
+    },
+    {
+        "question": "Which tag is used to create a list with bullets?",
+        "options": ["<ul>", "<ol>", "<li>", "<list>"],
+        "correct": 0
+    },
+    {
+        "question": "Which HTML tag is used for tables?",
+        "options": ["<table>", "<tb>", "<tab>", "<grid>"],
+        "correct": 0
+    },
+    {
+        "question": "Which HTTP method is used to send data to the server?",
+        "options": ["GET", "POST", "UPDATE", "SEND"],
+        "correct": 1
+    },
+    {
+        "question": "Which CSS property is used for background color?",
+        "options": ["bgcolor", "background-color", "color", "bg-style"],
+        "correct": 1
+    },
+    {
+        "question": "JavaScript arrays are written using:",
+        "options": ["{}", "[]", "<>", "()"],
+        "correct": 1
+    },
+    {
+        "question": "Which JavaScript keyword is used to declare a variable?",
+        "options": ["int", "var", "declare", "define"],
+        "correct": 1
+    },
+    {
+        "question": "Which HTML tag is used to add a line break?",
+        "options": ["<break>", "<lb>", "<br>", "<hr>"],
+        "correct": 2
+    },
+    {
+        "question": "What does DOM stand for?",
+        "options": ["Document Object Model", "Data Object Management", "Digital Object Manager", "Document Oriented Module"],
+        "correct": 0
+    },
+    {
+        "question": "Which CSS property adds space inside elements?",
+        "options": ["margin", "padding", "border", "spacing"],
+        "correct": 1
+    },
+    {
+        "question": "Bootstrap is a ______.",
+        "options": ["Database", "JavaScript library", "CSS Framework", "Operating system"],
+        "correct": 2
+    },
+    {
+        "question": "Which HTML tag is used for forms?",
+        "options": ["<form>", "<input>", "<section>", "<data>"],
+        "correct": 0
+    },
+    {
+        "question": "LocalStorage stores data:",
+        "options": ["Temporarily", "Until browser is closed", "Permanently until cleared", "On server"],
+        "correct": 2
+    },
+    {
+        "question": "Which protocol is secure?",
+        "options": ["HTTP", "HTTPS", "FTP", "WS"],
+        "correct": 1
+    },
+    {
+        "question": "Which is used to make a website responsive?",
+        "options": ["CSS Grid", "Flexbox", "Media Queries", "All of the above"],
+        "correct": 3
+    },
+    {
+        "question": "Which JavaScript function parses JSON strings?",
+        "options": ["JSON.parse()", "JSON.convert()", "JSON.read()", "JSON.stringify()"],
+        "correct": 0
+    },
+    {
+        "question": "Which HTML tag is used for including external CSS?",
+        "options": ["<css>", "<style>", "<link>", "<script>"],
+        "correct": 2
+    }
+]

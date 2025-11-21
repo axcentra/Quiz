@@ -1,0 +1,151 @@
+[{
+        "question": "Power BI is a business analytics tool developed by:",
+        "options": ["Google", "Microsoft", "Amazon", "IBM"],
+        "correct": 1
+    },
+    {
+        "question": "Which file extension is used for Power BI Desktop files?",
+        "options": [".pbx", ".pbi", ".pbix", ".pbd"],
+        "correct": 2
+    },
+    {
+        "question": "Which language is used in Power BI for data modeling?",
+        "options": ["Python", "DAX", "R", "SQL"],
+        "correct": 1
+    },
+    {
+        "question": "Which view in Power BI is used to create visuals?",
+        "options": ["Report View", "Model View", "Data View", "Dashboard View"],
+        "correct": 0
+    },
+    {
+        "question": "Power Query uses which language?",
+        "options": ["DAX", "M Language", "SQL", "Java"],
+        "correct": 1
+    },
+    {
+        "question": "Which type of join is NOT available in Power Query?",
+        "options": ["Inner", "Left Outer", "Right Outer", "Cross Join"],
+        "correct": 3
+    },
+    {
+        "question": "Which Power BI component is used to publish dashboards?",
+        "options": ["Power BI Desktop", "Power BI Service", "Power BI Report Builder", "Power BI Mobile"],
+        "correct": 1
+    },
+    {
+        "question": "Which of the following is a DAX function?",
+        "options": ["SUM()", "CALCULATE()", "FILTER()", "All of the above"],
+        "correct": 3
+    },
+    {
+        "question": "Which visual is best for showing trends over time?",
+        "options": ["Pie Chart", "Line Chart", "Tree Map", "Gauge"],
+        "correct": 1
+    },
+    {
+        "question": "Which data source can Power BI connect to?",
+        "options": ["Excel", "SQL Database", "Web Data", "All of the above"],
+        "correct": 3
+    },
+    {
+        "question": "Which feature is used to clean and transform data?",
+        "options": ["Power Query Editor", "DAX Editor", "Dashboard", "Model View"],
+        "correct": 0
+    },
+    {
+        "question": "Which of the following is NOT a type of filter in Power BI?",
+        "options": ["Visual Level", "Page Level", "Dashboard Level", "Report Level"],
+        "correct": 2
+    },
+    {
+        "question": "Power BI dashboards are:",
+        "options": ["Multi-page", "Single-page", "Only for mobile", "Only for desktop"],
+        "correct": 1
+    },
+    {
+        "question": "Which option is used to refresh datasets automatically?",
+        "options": ["Manual Refresh", "Scheduled Refresh", "Auto Load", "Live Sync"],
+        "correct": 1
+    },
+    {
+        "question": "Which visual is used for hierarchical data?",
+        "options": ["Tree Map", "Line Chart", "Table", "Gauge"],
+        "correct": 0
+    },
+    {
+        "question": "Which function returns the total of a column?",
+        "options": ["TOTAL()", "SUM()", "ADD()", "COUNT()"],
+        "correct": 1
+    },
+    {
+        "question": "Bookmarks in Power BI are used for:",
+        "options": ["Saving filter states", "Connecting data", "Viewing models", "Creating tables"],
+        "correct": 0
+    },
+    {
+        "question": "What does 'Get Data' allow you to do?",
+        "options": ["Create dashboards", "Import data from sources", "Apply filters", "Create measures"],
+        "correct": 1
+    },
+    {
+        "question": "Which of these is a valid Power BI license?",
+        "options": ["Pro", "Premium", "Free", "All of the above"],
+        "correct": 3
+    },
+    {
+        "question": "DAX stands for:",
+        "options": ["Data Analysis Expressions", "Data Analytics XML", "Data Applied Expressions", "Data Active Execution"],
+        "correct": 0
+    },
+    {
+        "question": "Which visual is best for comparison between categories?",
+        "options": ["Bar Chart", "Line Chart", "Card", "Matrix"],
+        "correct": 0
+    },
+    {
+        "question": "Which feature allows row-level security?",
+        "options": ["RLS", "DAX", "Power Query", "Gateway"],
+        "correct": 0
+    },
+    {
+        "question": "Which of the following is TRUE about Power BI Desktop?",
+        "options": ["It runs on browsers", "It is installed on local machine", "It is cloud-only", "It is mobile-only"],
+        "correct": 1
+    },
+    {
+        "question": "What is the use of Power BI Gateway?",
+        "options": ["Upload files", "Refresh on-prem data", "Create visuals", "Apply DAX"],
+        "correct": 1
+    },
+    {
+        "question": "Which visual shows KPIs?",
+        "options": ["Card", "Slicer", "Table", "Pie Chart"],
+        "correct": 0
+    },
+    {
+        "question": "What is a measure in Power BI?",
+        "options": ["Stored data", "Calculated value using DAX", "A chart type", "A filter"],
+        "correct": 1
+    },
+    {
+        "question": "Power BI Mobile is available for:",
+        "options": ["Android", "iOS", "Windows", "All of the above"],
+        "correct": 3
+    },
+    {
+        "question": "Which relationship type is allowed in Power BI?",
+        "options": ["One-to-One", "One-to-Many", "Many-to-One", "All of the above"],
+        "correct": 3
+    },
+    {
+        "question": "Which visual allows filtering directly on the report?",
+        "options": ["Matrix", "Card", "Slicer", "Gauge"],
+        "correct": 2
+    },
+    {
+        "question": "Power BI is mainly used for:",
+        "options": ["App development", "Data analysis and visualization", "Graphic design", "Networking"],
+        "correct": 1
+    }
+]

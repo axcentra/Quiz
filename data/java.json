@@ -1,0 +1,151 @@
+[{
+        "question": "Which keyword is used to define a class in Java?",
+        "options": ["class", "Class", "define", "struct"],
+        "correct": 0
+    },
+    {
+        "question": "Which method is the entry point of a Java program?",
+        "options": ["start()", "main()", "run()", "init()"],
+        "correct": 1
+    },
+    {
+        "question": "Java is a ____ language.",
+        "options": ["Procedural", "Object-Oriented", "Markup", "Low-level"],
+        "correct": 1
+    },
+    {
+        "question": "Which of the following is used to print output in Java?",
+        "options": ["printf()", "console.log()", "System.out.println()", "output.print()"],
+        "correct": 2
+    },
+    {
+        "question": "Which symbol is used for single-line comments in Java?",
+        "options": ["//", "/* */", "#", "--"],
+        "correct": 0
+    },
+    {
+        "question": "Which data type is used for decimal values?",
+        "options": ["int", "float", "char", "boolean"],
+        "correct": 1
+    },
+    {
+        "question": "Which keyword is used to create an object?",
+        "options": ["create", "class", "new", "object"],
+        "correct": 2
+    },
+    {
+        "question": "Which operator is used for equality comparison in Java?",
+        "options": ["=", "==", "!=", "==="],
+        "correct": 1
+    },
+    {
+        "question": "Which of these is a wrapper class?",
+        "options": ["int", "Integer", "char", "float"],
+        "correct": 1
+    },
+    {
+        "question": "Which keyword is used to inherit a class?",
+        "options": ["extends", "implements", "inherits", ":"],
+        "correct": 0
+    },
+    {
+        "question": "Which keyword is used for interface implementation?",
+        "options": ["extends", "implements", "inherits", "interface"],
+        "correct": 1
+    },
+    {
+        "question": "Java uses ______ for memory management.",
+        "options": ["Manual allocation", "Garbage Collection", "Pointers", "Static memory only"],
+        "correct": 1
+    },
+    {
+        "question": "Which of these is NOT a Java access modifier?",
+        "options": ["public", "protected", "private", "internal"],
+        "correct": 3
+    },
+    {
+        "question": "Which loop guarantees at least one execution?",
+        "options": ["for", "while", "do-while", "foreach"],
+        "correct": 2
+    },
+    {
+        "question": "Which package is imported by default?",
+        "options": ["java.io", "java.lang", "java.util", "java.net"],
+        "correct": 1
+    },
+    {
+        "question": "Which keyword is used to define a constant?",
+        "options": ["constant", "final", "const", "static"],
+        "correct": 1
+    },
+    {
+        "question": "Which function is used to get the length of a string?",
+        "options": ["size()", "len()", "length()", "count()"],
+        "correct": 2
+    },
+    {
+        "question": "Which exception occurs when dividing by zero?",
+        "options": ["ArithmeticException", "NullPointerException", "IOException", "IndexOutOfBoundsException"],
+        "correct": 0
+    },
+    {
+        "question": "Which keyword is used to handle exceptions?",
+        "options": ["try-catch", "throw-catch", "exception", "finally-try"],
+        "correct": 0
+    },
+    {
+        "question": "Which interface is used for collections?",
+        "options": ["ArrayList", "Collection", "Set", "Map"],
+        "correct": 1
+    },
+    {
+        "question": "Which class is used for dynamic arrays?",
+        "options": ["Array", "ArrayList", "List", "Vector"],
+        "correct": 1
+    },
+    {
+        "question": "Which of these is not a primitive data type?",
+        "options": ["int", "double", "String", "boolean"],
+        "correct": 2
+    },
+    {
+        "question": "Which keyword is used to stop a loop?",
+        "options": ["stop", "quit", "break", "exit"],
+        "correct": 2
+    },
+    {
+        "question": "Which operator is used for logical AND?",
+        "options": ["&&", "&", "and", "||"],
+        "correct": 0
+    },
+    {
+        "question": "Which concept allows multiple methods with same name?",
+        "options": ["Inheritance", "Encapsulation", "Overloading", "Abstraction"],
+        "correct": 2
+    },
+    {
+        "question": "Which concept hides internal details?",
+        "options": ["Encapsulation", "Inheritance", "Polymorphism", "Overloading"],
+        "correct": 0
+    },
+    {
+        "question": "What is the size of int in Java?",
+        "options": ["2 bytes", "4 bytes", "8 bytes", "Depends on OS"],
+        "correct": 1
+    },
+    {
+        "question": "Which method is called when an object is created?",
+        "options": ["create()", "constructor", "new()", "init()"],
+        "correct": 1
+    },
+    {
+        "question": "Which data structure uses key-value pairs?",
+        "options": ["List", "Set", "Map", "Queue"],
+        "correct": 2
+    },
+    {
+        "question": "Which keyword is used to define an abstract class?",
+        "options": ["interface", "abstract", "virtual", "base"],
+        "correct": 1
+    }
+]

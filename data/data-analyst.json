@@ -1,0 +1,151 @@
+[{
+        "question": "What is the primary role of a Data Analyst?",
+        "options": ["To create websites", "To analyze and interpret data", "To design hardware", "To manage servers"],
+        "correct": 1
+    },
+    {
+        "question": "Which of these is a spreadsheet tool?",
+        "options": ["VS Code", "PowerPoint", "Excel", "Photoshop"],
+        "correct": 2
+    },
+    {
+        "question": "Which file format is commonly used for data storage?",
+        "options": ["MP4", "CSV", "EXE", "JPG"],
+        "correct": 1
+    },
+    {
+        "question": "Which SQL command retrieves data from a table?",
+        "options": ["GET", "SELECT", "FETCH", "PULL"],
+        "correct": 1
+    },
+    {
+        "question": "What does KPI stand for?",
+        "options": ["Key Product Index", "Key Performance Indicator", "Known Performance Input", "Known Process Information"],
+        "correct": 1
+    },
+    {
+        "question": "Which chart is best for showing trends over time?",
+        "options": ["Pie Chart", "Line Chart", "Bar Chart", "Scatter Plot"],
+        "correct": 1
+    },
+    {
+        "question": "Which tool is commonly used for data visualization?",
+        "options": ["Power BI", "MS Word", "Notepad", "Paint"],
+        "correct": 0
+    },
+    {
+        "question": "Which Python library is used for data analysis?",
+        "options": ["Flask", "Pandas", "Django", "NumPy"],
+        "correct": 1
+    },
+    {
+        "question": "Which SQL keyword sorts data?",
+        "options": ["ORDER BY", "SORT", "ARRANGE", "GROUP"],
+        "correct": 0
+    },
+    {
+        "question": "Which of the following is a type of data?",
+        "options": ["Structured", "Unstructured", "Semi-Structured", "All of the above"],
+        "correct": 3
+    },
+    {
+        "question": "What is the full form of ETL?",
+        "options": ["Extract, Transfer, Load", "Extract, Transform, Load", "Enter, Transform, Load", "Edit, Transfer, Load"],
+        "correct": 1
+    },
+    {
+        "question": "Which chart shows part-to-whole relationships?",
+        "options": ["Scatter Plot", "Pie Chart", "Line Chart", "Area Chart"],
+        "correct": 1
+    },
+    {
+        "question": "Which SQL command is used to filter rows?",
+        "options": ["SORT", "WHERE", "SELECT", "GROUP BY"],
+        "correct": 1
+    },
+    {
+        "question": "Which of these is a BI tool?",
+        "options": ["Photoshop", "Tableau", "Android Studio", "GitHub"],
+        "correct": 1
+    },
+    {
+        "question": "Which Excel function is used to find the average?",
+        "options": ["SUM()", "AVG()", "MEAN()", "AVERAGE()"],
+        "correct": 3
+    },
+    {
+        "question": "What is a dashboard?",
+        "options": ["A chart", "A summary view of important metrics", "A database table", "A SQL command"],
+        "correct": 1
+    },
+    {
+        "question": "What is data cleaning?",
+        "options": ["Deleting all data", "Fixing errors and inconsistencies", "Installing new software", "Compressing files"],
+        "correct": 1
+    },
+    {
+        "question": "Which of these is qualitative data?",
+        "options": ["Age", "Height", "Color", "Salary"],
+        "correct": 2
+    },
+    {
+        "question": "Which join returns matching rows from both tables?",
+        "options": ["LEFT JOIN", "RIGHT JOIN", "FULL JOIN", "INNER JOIN"],
+        "correct": 3
+    },
+    {
+        "question": "Which type of graph shows correlation?",
+        "options": ["Scatter Plot", "Pie Chart", "Bar Graph", "Tree Map"],
+        "correct": 0
+    },
+    {
+        "question": "What does SQL stand for?",
+        "options": ["Structured Query Language", "Simple Query Language", "Sequential Query Logic", "Standard Question Language"],
+        "correct": 0
+    },
+    {
+        "question": "Which Python library is used for numerical computing?",
+        "options": ["Flask", "NumPy", "Matplotlib", "Pandas"],
+        "correct": 1
+    },
+    {
+        "question": " Which of these is an outlier?",
+        "options": ["100, 105, 101, 99", "5, 6, 7, 80", "10, 11, 12, 13", "30, 31, 32, 34"],
+        "correct": 1
+    },
+    {
+        "question": "Which chart is best for comparison?",
+        "options": ["Bar Chart", "Pie Chart", "Line Chart", "Gauge"],
+        "correct": 0
+    },
+    {
+        "question": "Which command removes duplicates in SQL?",
+        "options": ["UNIQUE", "REMOVE", "DISTINCT", "CLEAR"],
+        "correct": 2
+    },
+    {
+        "question": "Which tool is used for Big Data processing?",
+        "options": ["Hadoop", "Excel", "Figma", "Chrome"],
+        "correct": 0
+    },
+    {
+        "question": "What does 'NULL' mean in SQL?",
+        "options": ["0 value", "Empty string", "No value", "Negative value"],
+        "correct": 2
+    },
+    {
+        "question": "In Excel, VLOOKUP is used to:",
+        "options": ["Find vertical values", "Search for values in a column", "Sort data", "Clean data"],
+        "correct": 1
+    },
+    {
+        "question": "Which of these is a data type in SQL?",
+        "options": ["INT", "VARCHAR", "DATE", "All of the above"],
+        "correct": 3
+    },
+    {
+        "question": "What is data visualization?",
+        "options": ["Storing data", "Displaying data in charts and graphs", "Cleaning data", "Writing SQL queries"],
+        "correct": 1
+    }
+]

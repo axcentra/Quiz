@@ -1,0 +1,151 @@
+[{
+        "question": "Which of the following is the correct file extension for a C program?",
+        "options": [".cpp", ".java", ".c", ".py"],
+        "correct": 2
+    },
+    {
+        "question": "Which function is used to print output in C?",
+        "options": ["print()", "printf()", "cout", "display()"],
+        "correct": 1
+    },
+    {
+        "question": "Which header file is required for printf()?",
+        "options": ["<stdlib.h>", "<stdio.h>", "<string.h>", "<math.h>"],
+        "correct": 1
+    },
+    {
+        "question": "Which data type is used to store whole numbers?",
+        "options": ["float", "char", "int", "double"],
+        "correct": 2
+    },
+    {
+        "question": "Which symbol is used to comment a single line in C?",
+        "options": ["//", "/* */", "#", "--"],
+        "correct": 0
+    },
+    {
+        "question": "Which operator is used for equality comparison?",
+        "options": ["=", "==", "!=", "==="],
+        "correct": 1
+    },
+    {
+        "question": "What will the sizeof(int) typically return?",
+        "options": ["2 bytes", "4 bytes", "8 bytes", "Depends on system"],
+        "correct": 3
+    },
+    {
+        "question": "Which loop is guaranteed to run at least once?",
+        "options": ["for", "while", "do-while", "None"],
+        "correct": 2
+    },
+    {
+        "question": "Which function is used to accept input from the user?",
+        "options": ["accept()", "get()", "scanf()", "input()"],
+        "correct": 2
+    },
+    {
+        "question": "Arrays in C start with index:",
+        "options": ["-1", "1", "0", "Depends"],
+        "correct": 2
+    },
+    {
+        "question": "Which keyword is used to declare a constant variable?",
+        "options": ["constant", "final", "const", "static"],
+        "correct": 2
+    },
+    {
+        "question": "Which of the following is not a valid C data type?",
+        "options": ["short", "long", "real", "float"],
+        "correct": 2
+    },
+    {
+        "question": "What is the default return type of main() in C?",
+        "options": ["int", "void", "float", "char"],
+        "correct": 0
+    },
+    {
+        "question": "Which format specifier is used for integers?",
+        "options": ["%f", "%c", "%d", "%s"],
+        "correct": 2
+    },
+    {
+        "question": "Which memory allocation function allocates zero-initialized memory?",
+        "options": ["malloc()", "calloc()", "realloc()", "free()"],
+        "correct": 1
+    },
+    {
+        "question": "Which operator is used to access value stored at a pointer?",
+        "options": ["*", "&", "@", "#"],
+        "correct": 0
+    },
+    {
+        "question": "Which keyword is used to exit from a loop?",
+        "options": ["stop", "end", "break", "quit"],
+        "correct": 2
+    },
+    {
+        "question": "Which header file is needed for malloc()?",
+        "options": ["<math.h>", "<stdio.h>", "<stdlib.h>", "<string.h>"],
+        "correct": 2
+    },
+    {
+        "question": "What is the output of: 'A' + 1?",
+        "options": ["A", "B", "66", "Error"],
+        "correct": 2
+    },
+    {
+        "question": "Which loop is best for iterating over arrays?",
+        "options": ["while", "for", "do-while", "switch"],
+        "correct": 1
+    },
+    {
+        "question": "What is the maximum number of dimensions allowed in C arrays?",
+        "options": ["2", "4", "10", "No limit as long as memory allows"],
+        "correct": 3
+    },
+    {
+        "question": "Functions in C are:",
+        "options": ["Predefined only", "User-defined only", "Both predefined and user-defined", "Not allowed"],
+        "correct": 2
+    },
+    {
+        "question": "Which of the following is a storage class in C?",
+        "options": ["auto", "static", "extern", "All of the above"],
+        "correct": 3
+    },
+    {
+        "question": "Which operator has the highest precedence?",
+        "options": ["*", "()", "++", "+"],
+        "correct": 1
+    },
+    {
+        "question": "What is a pointer?",
+        "options": ["A variable that stores address", "A constant", "A function", "A data type"],
+        "correct": 0
+    },
+    {
+        "question": "Which of the following is not a loop structure?",
+        "options": ["for", "repeat", "while", "do-while"],
+        "correct": 1
+    },
+    {
+        "question": "Which of the following is used to define a macro?",
+        "options": ["#macro", "#define", "#set", "#include"],
+        "correct": 1
+    },
+    {
+        "question": "What is the output of sizeof(char)?",
+        "options": ["1 byte", "2 bytes", "4 bytes", "Depends on compiler"],
+        "correct": 0
+    },
+    {
+        "question": "Which function is used to concatenate strings?",
+        "options": ["strcat()", "strcopy()", "stringcat()", "concat()"],
+        "correct": 0
+    },
+    {
+        "question": "What does NULL represent in C?",
+        "options": ["0", "Empty pointer", "Invalid pointer", "All of the above"],
+        "correct": 3
+    }
+]

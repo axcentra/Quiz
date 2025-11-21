@@ -1,0 +1,151 @@
+[{
+        "question": "What is the output of print(2 ** 3)?",
+        "options": ["6", "8", "9", "5"],
+        "correct": 1
+    },
+    {
+        "question": "Which of the following is used to define a function in Python?",
+        "options": ["function", "def", "define", "func"],
+        "correct": 1
+    },
+    {
+        "question": "What does the 'len()' function do in Python?",
+        "options": ["Returns the length of an object", "Returns the largest item", "Returns the smallest item", "Returns the absolute value"],
+        "correct": 0
+    },
+    {
+        "question": "Which data type is mutable in Python?",
+        "options": ["Tuple", "String", "List", "Integer"],
+        "correct": 2
+    },
+    {
+        "question": "What is the correct way to create a dictionary in Python?",
+        "options": ["{key: value}", "dict(key=value)", "Both A and B", "None of the above"],
+        "correct": 2
+    },
+    {
+        "question": "What does PEP 8 refer to in Python?",
+        "options": ["Python Enhancement Proposal for code style", "A Python library", "A Python framework", "Python error code"],
+        "correct": 0
+    },
+    {
+        "question": "Which method is used to add an element to a list?",
+        "options": ["append()", "add()", "insert()", "push()"],
+        "correct": 0
+    },
+    {
+        "question": "What is the purpose of __init__ in Python classes?",
+        "options": ["Constructor method", "Destructor method", "Initialization method", "Both A and C"],
+        "correct": 3
+    },
+    {
+        "question": "Which module is used for regular expressions in Python?",
+        "options": ["re", "regex", "pyre", "pattern"],
+        "correct": 0
+    },
+    {
+        "question": "What does the 'yield' keyword do in Python?",
+        "options": ["Creates a generator", "Returns a value from function", "Pauses function execution", "All of the above"],
+        "correct": 3
+    },
+    {
+        "question": "Which of these is NOT a Python web framework?",
+        "options": ["Django", "Flask", "Spring", "Pyramid"],
+        "correct": 2
+    },
+    {
+        "question": "What is the result of 'hello'[1:4] in Python?",
+        "options": ["ell", "hel", "ello", "hell"],
+        "correct": 0
+    },
+    {
+        "question": "Which operator is used for exponentiation in Python?",
+        "options": ["^", "**", "^^", "pow"],
+        "correct": 1
+    },
+    {
+        "question": "What does the 'pass' statement do in Python?",
+        "options": ["Does nothing", "Terminates program", "Skips current iteration", "Passes arguments"],
+        "correct": 0
+    },
+    {
+        "question": "Which method is used to read user input in Python?",
+        "options": ["input()", "read()", "get()", "scan()"],
+        "correct": 0
+    },
+    {
+        "question": "What is the output of bool('False') in Python?",
+        "options": ["False", "True", "Error", "None"],
+        "correct": 1
+    },
+    {
+        "question": "Which data structure uses LIFO principle?",
+        "options": ["Queue", "Stack", "Array", "Dictionary"],
+        "correct": 1
+    },
+    {
+        "question": "What does @staticmethod decorator do?",
+        "options": ["Creates static method", "Prevents method overriding", "Makes method private", "Optimizes method"],
+        "correct": 0
+    },
+    {
+        "question": "Which module is used for mathematical operations?",
+        "options": ["math", "calc", "numpy", "Both A and C"],
+        "correct": 3
+    },
+    {
+        "question": "What is the time complexity of list.append()?",
+        "options": ["O(1)", "O(n)", "O(log n)", "O(n²)"],
+        "correct": 0
+    },
+    {
+        "question": "Which is used for virtual environment in Python?",
+        "options": ["venv", "virtualenv", "pipenv", "All of the above"],
+        "correct": 3
+    },
+    {
+        "question": "What does 'immutable' mean in Python?",
+        "options": ["Cannot be changed", "Can be modified", "Temporary", "Global"],
+        "correct": 0
+    },
+    {
+        "question": "Which is NOT a Python data type?",
+        "options": ["list", "tuple", "array", "vector"],
+        "correct": 3
+    },
+    {
+        "question": "What is the purpose of 'if __name__ == '__main__''?",
+        "options": ["Runs code only when executed directly", "Imports module", "Defines main function", "Checks Python version"],
+        "correct": 0
+    },
+    {
+        "question": "Which method removes and returns last list element?",
+        "options": ["pop()", "remove()", "delete()", "cut()"],
+        "correct": 0
+    },
+    {
+        "question": "What does 'lambda' create in Python?",
+        "options": ["Anonymous function", "Named function", "Class", "Module"],
+        "correct": 0
+    },
+    {
+        "question": "Which is used for package management in Python?",
+        "options": ["pip", "npm", "maven", "gradle"],
+        "correct": 0
+    },
+    {
+        "question": "What is the output of '3' + '4' in Python?",
+        "options": ["7", "34", "Error", "None"],
+        "correct": 1
+    },
+    {
+        "question": "Which is used for database operations in Python?",
+        "options": ["SQLite", "MySQL", "PostgreSQL", "All of the above"],
+        "correct": 3
+    },
+    {
+        "question": "What does 'finally' block do in exception handling?",
+        "options": ["Always executes", "Executes on error", "Executes on success", "Never executes"],
+        "correct": 0
+    }
+]

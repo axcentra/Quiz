@@ -1,0 +1,151 @@
+[{
+        "question": "Which data structure uses LIFO principle?",
+        "options": ["Queue", "Stack", "Array", "Tree"],
+        "correct": 1
+    },
+    {
+        "question": "Which data structure uses FIFO principle?",
+        "options": ["Stack", "Queue", "Tree", "Graph"],
+        "correct": 1
+    },
+    {
+        "question": "What is the time complexity of binary search?",
+        "options": ["O(n)", "O(n^2)", "O(log n)", "O(1)"],
+        "correct": 2
+    },
+    {
+        "question": "Which of the following is a linear data structure?",
+        "options": ["Tree", "Graph", "Stack", "Heap"],
+        "correct": 2
+    },
+    {
+        "question": "Which traversal uses recursion naturally?",
+        "options": ["Inorder", "Preorder", "Postorder", "All of the above"],
+        "correct": 3
+    },
+    {
+        "question": "Which data structure is used in BFS?",
+        "options": ["Stack", "Queue", "Tree", "Array"],
+        "correct": 1
+    },
+    {
+        "question": "Which data structure is used in DFS?",
+        "options": ["Stack", "Queue", "Linked List", "Heap"],
+        "correct": 0
+    },
+    {
+        "question": "Which sorting algorithm has the best average performance?",
+        "options": ["Bubble Sort", "Insertion Sort", "Quick Sort", "Selection Sort"],
+        "correct": 2
+    },
+    {
+        "question": "The height of a balanced binary tree is:",
+        "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+        "correct": 1
+    },
+    {
+        "question": "What is the worst-case time complexity of Quick Sort?",
+        "options": ["O(n)", "O(log n)", "O(n log n)", "O(n^2)"],
+        "correct": 3
+    },
+    {
+        "question": "Which of the following is not a self-balancing BST?",
+        "options": ["AVL Tree", "Red-Black Tree", "Binary Search Tree", "Splay Tree"],
+        "correct": 2
+    },
+    {
+        "question": "Which hashing collision technique uses linked lists?",
+        "options": ["Open Addressing", "Chaining", "Rehashing", "Double Hashing"],
+        "correct": 1
+    },
+    {
+        "question": "In a max heap, the largest element is at:",
+        "options": ["Root", "Left child", "Right child", "Leaf node"],
+        "correct": 0
+    },
+    {
+        "question": "Which data structure is used for undo operations?",
+        "options": ["Queue", "Stack", "Array", "Dictionary"],
+        "correct": 1
+    },
+    {
+        "question": "Which operation is performed faster in a linked list than an array?",
+        "options": ["Random access", "Traversal", "Insertion", "Binary search"],
+        "correct": 2
+    },
+    {
+        "question": "A full binary tree with 7 nodes has how many leaf nodes?",
+        "options": ["2", "3", "4", "5"],
+        "correct": 2
+    },
+    {
+        "question": "Which graph traversal can detect cycles?",
+        "options": ["Inorder", "Postorder", "BFS and DFS", "None"],
+        "correct": 2
+    },
+    {
+        "question": "Which sorting algorithm is stable?",
+        "options": ["Selection Sort", "Merge Sort", "Heap Sort", "Quick Sort"],
+        "correct": 1
+    },
+    {
+        "question": "Which data structure is used to implement priority queue?",
+        "options": ["Stack", "Array", "Heap", "Linked List"],
+        "correct": 2
+    },
+    {
+        "question": "Which of the following gives O(1) average search time?",
+        "options": ["BST", "Hash Table", "Heap", "Queue"],
+        "correct": 1
+    },
+    {
+        "question": "Which tree traversal prints sorted data in BST?",
+        "options": ["Inorder", "Preorder", "Postorder", "Level order"],
+        "correct": 0
+    },
+    {
+        "question": "Which algorithm is used to find shortest path in a weighted graph?",
+        "options": ["DFS", "BFS", "Dijkstra", "Kruskal"],
+        "correct": 2
+    },
+    {
+        "question": "Which algorithm is used to find Minimum Spanning Tree?",
+        "options": ["Dijkstra", "Kruskal", "A* Search", "Floyd–Warshall"],
+        "correct": 1
+    },
+    {
+        "question": "Which is NOT an application of stack?",
+        "options": ["Recursion", "Expression evaluation", "Infix to postfix", "Level-order traversal"],
+        "correct": 3
+    },
+    {
+        "question": "Which is the best-case complexity of Bubble Sort?",
+        "options": ["O(n)", "O(n log n)", "O(n^2)", "O(log n)"],
+        "correct": 0
+    },
+    {
+        "question": "A queue can be implemented using:",
+        "options": ["Array", "Linked List", "Two stacks", "All of the above"],
+        "correct": 3
+    },
+    {
+        "question": "Which tree has maximum height for n nodes?",
+        "options": ["AVL Tree", "Balanced BST", "Skewed BST", "Complete Tree"],
+        "correct": 2
+    },
+    {
+        "question": "Which of the following is an example of Divide and Conquer?",
+        "options": ["Bubble Sort", "Binary Search", "Traversal", "Hashing"],
+        "correct": 1
+    },
+    {
+        "question": "Which searching algorithm does NOT work on unsorted data?",
+        "options": ["Linear Search", "Binary Search", "DFS", "BFS"],
+        "correct": 1
+    },
+    {
+        "question": "What is the time complexity of inserting in a linked list at the beginning?",
+        "options": ["O(1)", "O(log n)", "O(n)", "O(n log n)"],
+        "correct": 0
+    }
+]

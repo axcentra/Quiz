@@ -1,0 +1,151 @@
+[{
+        "question": "Which library is most commonly used for data manipulation in Python?",
+        "options": ["NumPy", "Pandas", "Matplotlib", "SciPy"],
+        "correct": 1
+    },
+    {
+        "question": "Which library is used for numerical computing?",
+        "options": ["Pandas", "NumPy", "Seaborn", "Flask"],
+        "correct": 1
+    },
+    {
+        "question": "Which function is used to read a CSV file in Pandas?",
+        "options": ["pd.load()", "pd.read_csv()", "pd.open_csv()", "pd.csv()"],
+        "correct": 1
+    },
+    {
+        "question": "What data structure does Pandas primarily use?",
+        "options": ["Array", "List", "DataFrame", "Tuple"],
+        "correct": 2
+    },
+    {
+        "question": "Which library is used for data visualization?",
+        "options": ["Matplotlib", "NumPy", "Pandas", "TensorFlow"],
+        "correct": 0
+    },
+    {
+        "question": "Which function shows basic statistics of a DataFrame?",
+        "options": ["df.describe()", "df.stats()", "df.summary()", "df.info()"],
+        "correct": 0
+    },
+    {
+        "question": "Which library provides machine learning algorithms?",
+        "options": ["Flask", "scikit-learn", "NumPy", "Django"],
+        "correct": 1
+    },
+    {
+        "question": "What does df.head() do?",
+        "options": ["Shows structure", "Shows first rows", "Shows null values", "Shows last rows"],
+        "correct": 1
+    },
+    {
+        "question": "Which function removes missing values?",
+        "options": ["drop()", "remove()", "dropna()", "delete()"],
+        "correct": 2
+    },
+    {
+        "question": "Which plot is best for showing correlation?",
+        "options": ["Line Plot", "Bar Chart", "Scatter Plot", "Pie Chart"],
+        "correct": 2
+    },
+    {
+        "question": "Which Python package is used for deep learning?",
+        "options": ["Seaborn", "TensorFlow", "Matplotlib", "Pandas"],
+        "correct": 1
+    },
+    {
+        "question": "What does df.isnull() return?",
+        "options": ["Only null values", "True/False for nulls", "Fills nulls", "Deletes nulls"],
+        "correct": 1
+    },
+    {
+        "question": "Which method is used for scaling data?",
+        "options": ["MinMaxScaler", "Normalizer", "StandardScaler", "All of the above"],
+        "correct": 3
+    },
+    {
+        "question": "Which algorithm is used for classification?",
+        "options": ["KMeans", "Linear Regression", "Logistic Regression", "PCA"],
+        "correct": 2
+    },
+    {
+        "question": "Which algorithm is used for clustering?",
+        "options": ["Decision Trees", "KMeans", "Logistic Regression", "SVM"],
+        "correct": 1
+    },
+    {
+        "question": "Which library is used for statistical graphics?",
+        "options": ["Seaborn", "NumPy", "Pandas", "SciPy"],
+        "correct": 0
+    },
+    {
+        "question": "Which method is used to split data into train and test?",
+        "options": ["train_test_split()", "split_data()", "data.divide()", "train_split()"],
+        "correct": 0
+    },
+    {
+        "question": "Which metric is used for regression evaluation?",
+        "options": ["Accuracy", "MSE", "Recall", "AUC"],
+        "correct": 1
+    },
+    {
+        "question": "Which function converts a DataFrame to NumPy array?",
+        "options": ["df.to_numpy()", "df.as_array()", "df.to_list()", "df.numpy()"],
+        "correct": 0
+    },
+    {
+        "question": "Which function shows last rows of a DataFrame?",
+        "options": ["df.tail()", "df.end()", "df.bottom()", "df.last()"],
+        "correct": 0
+    },
+    {
+        "question": "Python's primary data science ecosystem is called:",
+        "options": ["PyData", "SciKit", "TensorBase", "DataPy"],
+        "correct": 0
+    },
+    {
+        "question": "Which Python library is used for matrix operations?",
+        "options": ["NumPy", "Pandas", "Seaborn", "Matplotlib"],
+        "correct": 0
+    },
+    {
+        "question": "Which method is used to find correlation?",
+        "options": ["df.connect()", "df.corr()", "df.relate()", "df.stats()"],
+        "correct": 1
+    },
+    {
+        "question": "Which algorithm reduces dimensionality?",
+        "options": ["SVM", "PCA", "KNN", "Decision Tree"],
+        "correct": 1
+    },
+    {
+        "question": "Which Python library supports SQL-like operations?",
+        "options": ["Pandas", "Seaborn", "Matplotlib", "Math"],
+        "correct": 0
+    },
+    {
+        "question": "What is the output of df.shape?",
+        "options": ["Number of nulls", "Rows & columns", "Column names", "Data types"],
+        "correct": 1
+    },
+    {
+        "question": "Which framework is used for advanced ML?",
+        "options": ["TensorFlow", "React", "Bootstrap", "Flask"],
+        "correct": 0
+    },
+    {
+        "question": "Which command installs Python packages?",
+        "options": ["pip install", "py install", "python install", "package add"],
+        "correct": 0
+    },
+    {
+        "question": "Which library is used to load datasets in scikit-learn?",
+        "options": ["sklearn.data", "sklearn.dataset", "sklearn.datasets", "sklearn.load"],
+        "correct": 2
+    },
+    {
+        "question": "Which is NOT a Python data type?",
+        "options": ["int", "float", "DataFrame", "list"],
+        "correct": 2
+    }
+]

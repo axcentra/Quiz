@@ -1,0 +1,151 @@
+[{
+        "question": "Flutter is developed by:",
+        "options": ["Facebook", "Apple", "Google", "Microsoft"],
+        "correct": 2
+    },
+    {
+        "question": "Flutter uses which programming language?",
+        "options": ["Java", "Kotlin", "Dart", "Swift"],
+        "correct": 2
+    },
+    {
+        "question": "Which widget is used for immutable UI components?",
+        "options": ["StatefulWidget", "StatelessWidget", "Container", "Column"],
+        "correct": 1
+    },
+    {
+        "question": "Which command is used to run a Flutter app?",
+        "options": ["flutter create", "flutter run", "flutter test", "flutter build"],
+        "correct": 1
+    },
+    {
+        "question": "Hot Reload in Flutter is used for:",
+        "options": ["Rebuilding entire app", "Quick UI updates", "Publishing apps", "Debugging memory"],
+        "correct": 1
+    },
+    {
+        "question": "Which widget allows scrolling?",
+        "options": ["Container", "Column", "ListView", "SizedBox"],
+        "correct": 2
+    },
+    {
+        "question": "Which file contains Flutter app dependencies?",
+        "options": ["pubspec.yaml", "main.dart", "config.json", "build.gradle"],
+        "correct": 0
+    },
+    {
+        "question": "Which method is the entry point of a Flutter app?",
+        "options": ["run()", "startApp()", "main()", "build()"],
+        "correct": 2
+    },
+    {
+        "question": "Flutter follows which architecture pattern?",
+        "options": ["MVC", "MVVM", "Widget tree", "MVP"],
+        "correct": 2
+    },
+    {
+        "question": "Which widget positions elements vertically?",
+        "options": ["Row", "Column", "Stack", "Center"],
+        "correct": 1
+    },
+    {
+        "question": "Which widget is used to display an image?",
+        "options": ["Text", "ListTile", "Image", "Icon"],
+        "correct": 2
+    },
+    {
+        "question": "The build() method belongs to:",
+        "options": ["State", "Widget", "MaterialApp", "Context"],
+        "correct": 0
+    },
+    {
+        "question": "Which Flutter package is used for HTTP requests?",
+        "options": ["http", "dio", "rest", "net"],
+        "correct": 0
+    },
+    {
+        "question": "Navigator.push() is used for:",
+        "options": ["Close app", "Switch theme", "Navigate to new screen", "Refresh UI"],
+        "correct": 2
+    },
+    {
+        "question": "Which widget is used for user input?",
+        "options": ["Text", "ListView", "TextField", "Image"],
+        "correct": 2
+    },
+    {
+        "question": "StatefulWidget manages:",
+        "options": ["Static UI", "Dynamic UI", "Images only", "Network calls only"],
+        "correct": 1
+    },
+    {
+        "question": "Which command installs all packages?",
+        "options": ["flutter pub upgrade", "flutter install", "flutter pub get", "flutter packages install"],
+        "correct": 2
+    },
+    {
+        "question": "Which widget is used to overlap widgets?",
+        "options": ["Column", "Row", "Stack", "Padding"],
+        "correct": 2
+    },
+    {
+        "question": "Flutter apps are compiled to:",
+        "options": ["Java bytecode", "Native ARM code", "JavaScript only", "Python code"],
+        "correct": 1
+    },
+    {
+        "question": "Which widget is used for tapping detection?",
+        "options": ["Container", "InkWell", "Column", "Card"],
+        "correct": 1
+    },
+    {
+        "question": "Which function updates UI in StatefulWidget?",
+        "options": ["update()", "reload()", "setState()", "refresh()"],
+        "correct": 2
+    },
+    {
+        "question": "Which widget is used for spacing?",
+        "options": ["Divider", "SizedBox", "Padding", "All of the above"],
+        "correct": 3
+    },
+    {
+        "question": "Which keyword imports a library?",
+        "options": ["using", "import", "include", "extends"],
+        "correct": 1
+    },
+    {
+        "question": "MaterialApp is used for:",
+        "options": ["Animations", "Theme, routing & UI structure", "Database", "HTTP calls"],
+        "correct": 1
+    },
+    {
+        "question": "Which file is created first in a Flutter project?",
+        "options": ["index.html", "main.dart", "app.json", "config.dart"],
+        "correct": 1
+    },
+    {
+        "question": "Which layout widget expands to fill available space?",
+        "options": ["Expanded", "Container", "SizedBox", "Wrap"],
+        "correct": 0
+    },
+    {
+        "question": "What is the default scrolling widget?",
+        "options": ["ListView", "GridView", "PageView", "ScrollView"],
+        "correct": 0
+    },
+    {
+        "question": "Flutter supports:",
+        "options": ["Android only", "iOS only", "Web, Android, iOS, Desktop", "Windows only"],
+        "correct": 2
+    },
+    {
+        "question": "Which widget is used to show a loading animation?",
+        "options": ["CircularProgressIndicator", "Text", "Slider", "AlertDialog"],
+        "correct": 0
+    },
+    {
+        "question": "Which plugin is used for local storage?",
+        "options": ["shared_preferences", "flutter_storage", "local_db", "file_saver"],
+        "correct": 0
+    }
+]

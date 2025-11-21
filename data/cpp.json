@@ -1,0 +1,151 @@
+[{
+        "question": "Which of the following is the correct file extension for a C++ file?",
+        "options": [".c", ".cpp", ".cs", ".cp"],
+        "correct": 1
+    },
+    {
+        "question": "Which operator is used for input in C++?",
+        "options": ["<<", ">>", "::", "**"],
+        "correct": 1
+    },
+    {
+        "question": "Which keyword is used to create an object?",
+        "options": ["class", "struct", "new", "object"],
+        "correct": 2
+    },
+    {
+        "question": "Which of these is used for output in C++?",
+        "options": ["cout", "print()", "echo()", "display()"],
+        "correct": 0
+    },
+    {
+        "question": "Which symbol is used for single-line comments in C++?",
+        "options": ["//", "/* */", "##", "--"],
+        "correct": 0
+    },
+    {
+        "question": "Which concept is C++ based on?",
+        "options": ["Object-Oriented Programming", "Procedural Programming", "Markup Programming", "Functional Programming"],
+        "correct": 0
+    },
+    {
+        "question": "Which OOP concept allows multiple functions with same name?",
+        "options": ["Inheritance", "Polymorphism", "Abstraction", "Encapsulation"],
+        "correct": 1
+    },
+    {
+        "question": "Which operator is used to access members of a class?",
+        "options": [".", "->", "::", ":"],
+        "correct": 0
+    },
+    {
+        "question": "Which function is the entry point of a C++ program?",
+        "options": ["start()", "main()", "run()", "entry()"],
+        "correct": 1
+    },
+    {
+        "question": "Which header file is used for input and output?",
+        "options": ["<iostream>", "<stdio.h>", "<stdlib.h>", "<fstream>"],
+        "correct": 0
+    },
+    {
+        "question": "Which keyword is used to inherit a class?",
+        "options": ["inherits", "extends", "using", ":"],
+        "correct": 3
+    },
+    {
+        "question": "Which of the following is not an access specifier?",
+        "options": ["public", "private", "protected", "internal"],
+        "correct": 3
+    },
+    {
+        "question": "Which operator is used to allocate memory dynamically?",
+        "options": ["new", "malloc", "alloc", "create"],
+        "correct": 0
+    },
+    {
+        "question": "Which operator is used to release dynamically allocated memory?",
+        "options": ["delete", "free", "remove", "destroy"],
+        "correct": 0
+    },
+    {
+        "question": "Which of these cannot be overloaded?",
+        "options": ["+", "*", "?:", "=="],
+        "correct": 2
+    },
+    {
+        "question": "Which keyword is used to define a constant in C++?",
+        "options": ["constant", "const", "final", "static"],
+        "correct": 1
+    },
+    {
+        "question": "Which type of function cannot access non-static members?",
+        "options": ["Static function", "Friend function", "Inline function", "Virtual function"],
+        "correct": 0
+    },
+    {
+        "question": "Which concept hides internal details of an object?",
+        "options": ["Polymorphism", "Encapsulation", "Inheritance", "Abstraction"],
+        "correct": 1
+    },
+    {
+        "question": "Which feature of OOP allows reusability?",
+        "options": ["Polymorphism", "Encapsulation", "Inheritance", "Overloading"],
+        "correct": 2
+    },
+    {
+        "question": "Which container is part of STL?",
+        "options": ["vector", "print", "table", "stacktrace"],
+        "correct": 0
+    },
+    {
+        "question": "Which function is used to read a full line of input?",
+        "options": ["cin.get()", "getline()", "get()", "cin.line()"],
+        "correct": 1
+    },
+    {
+        "question": "What is the default access specifier for class members?",
+        "options": ["public", "private", "protected", "static"],
+        "correct": 1
+    },
+    {
+        "question": "Which keyword is used to declare an abstract class?",
+        "options": ["abstract", "virtual", "base", "interface"],
+        "correct": 1
+    },
+    {
+        "question": "Which of the following is NOT a feature of C++?",
+        "options": ["Inheritance", "Polymorphism", "Garbage Collection", "Encapsulation"],
+        "correct": 2
+    },
+    {
+        "question": "Which of these is used to handle exceptions?",
+        "options": ["catch-try", "throw-try", "try-catch", "error-catch"],
+        "correct": 2
+    },
+    {
+        "question": "Which operator is used to access members of a pointer object?",
+        "options": [".", "->", "::", ":"],
+        "correct": 1
+    },
+    {
+        "question": "Which keyword prevents a variable from being modified?",
+        "options": ["static", "final", "const", "volatile"],
+        "correct": 2
+    },
+    {
+        "question": "Which type of inheritance uses multiple base classes?",
+        "options": ["Single", "Multiple", "Multilevel", "Hybrid"],
+        "correct": 1
+    },
+    {
+        "question": "Which keyword is used to return a value?",
+        "options": ["send", "give", "return", "output"],
+        "correct": 2
+    },
+    {
+        "question": "Which header file is used for file handling?",
+        "options": ["<iostream>", "<file.h>", "<fstream>", "<stdio.h>"],
+        "correct": 2
+    }
+]

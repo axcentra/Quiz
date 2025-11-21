@@ -1,0 +1,151 @@
+[{
+        "question": "What does MERN stand for?",
+        "options": ["MongoDB, Express, React, Node", "MySQL, Express, React, Node", "MongoDB, Ember, Rails, Node", "MongoDB, Express, Redux, Node"],
+        "correct": 0
+    },
+    {
+        "question": "Which database is used in MERN stack?",
+        "options": ["MySQL", "PostgreSQL", "MongoDB", "SQLite"],
+        "correct": 2
+    },
+    {
+        "question": "React is mainly used for:",
+        "options": ["Backend development", "Database management", "Building UI components", "Deployment"],
+        "correct": 2
+    },
+    {
+        "question": "Which of the following is Node.js used for?",
+        "options": ["Frontend", "Backend", "Database", "OS Development"],
+        "correct": 1
+    },
+    {
+        "question": "Which command creates a new React app?",
+        "options": ["npm init react-app", "create-react-app appname", "npm create app", "react new app"],
+        "correct": 1
+    },
+    {
+        "question": "Which package is used to interact with MongoDB in Node.js?",
+        "options": ["mongoose", "express", "axios", "react-mongo"],
+        "correct": 0
+    },
+    {
+        "question": "Which hook is used to manage state in React?",
+        "options": ["useData()", "useState()", "useInfo()", "useEffect()"],
+        "correct": 1
+    },
+    {
+        "question": "Express.js is a:",
+        "options": ["Frontend library", "Backend framework", "Database", "Compiler"],
+        "correct": 1
+    },
+    {
+        "question": "Which HTTP method is used to update data?",
+        "options": ["GET", "POST", "PUT", "DELETE"],
+        "correct": 2
+    },
+    {
+        "question": "Which HTTP method is used to delete data?",
+        "options": ["REMOVE", "DELETE", "ERASE", "CLEAR"],
+        "correct": 1
+    },
+    {
+        "question": "JSON stands for:",
+        "options": ["JavaScript Object Node", "Java Source Open Network", "JavaScript Object Notation", "JavaScript Operation Number"],
+        "correct": 2
+    },
+    {
+        "question": "Which command is used to install a package in Node?",
+        "options": ["npm install", "node add", "npm create", "node install"],
+        "correct": 0
+    },
+    {
+        "question": "Which React hook is used for side effects?",
+        "options": ["useState()", "useEffect()", "useMemo()", "useCallback()"],
+        "correct": 1
+    },
+    {
+        "question": "Which protocol is used for client-server communication?",
+        "options": ["SMTP", "HTTPS/HTTP", "SSH", "SFTP"],
+        "correct": 1
+    },
+    {
+        "question": "In MongoDB, data is stored in:",
+        "options": ["Tables", "Documents", "Rows", "Sheets"],
+        "correct": 1
+    },
+    {
+        "question": "Which tool is used to test APIs?",
+        "options": ["Figma", "VSCode", "Postman", "Photoshop"],
+        "correct": 2
+    },
+    {
+        "question": "Which Node.js module handles routing?",
+        "options": ["React Router", "Express Router", "Mongo Router", "NodePath"],
+        "correct": 1
+    },
+    {
+        "question": "Which of the following is a React state management library?",
+        "options": ["Redux", "Express", "Axios", "Babel"],
+        "correct": 0
+    },
+    {
+        "question": "Which folder contains React components?",
+        "options": ["config", "src", "public", "routes"],
+        "correct": 1
+    },
+    {
+        "question": "Which middleware is used to parse JSON in Express?",
+        "options": ["express.data()", "express.body()", "express.json()", "express.parser()"],
+        "correct": 2
+    },
+    {
+        "question": "Which LifeCycle method in React runs after component renders?",
+        "options": ["componentDidMount()", "componentStart()", "componentLoad()", "componentInit()"],
+        "correct": 0
+    },
+    {
+        "question": "What is used to protect routes in React?",
+        "options": ["PrivateRoute", "SecureLink", "ProtectedURL", "ReactAuth"],
+        "correct": 0
+    },
+    {
+        "question": "Which database structure does MongoDB follow?",
+        "options": ["Relational", "Document-oriented", "Graph", "Tabular"],
+        "correct": 1
+    },
+    {
+        "question": "What is JSX?",
+        "options": ["Java XML", "JavaScript XML", "JSON eXtension", "Java Syntax"],
+        "correct": 1
+    },
+    {
+        "question": "Which tool is used to start a Node server?",
+        "options": ["start-server", "node index.js", "run-server", "npm build"],
+        "correct": 1
+    },
+    {
+        "question": "Which engine does Node.js use?",
+        "options": ["V8", "SpiderMonkey", "Chakra", "Webkit"],
+        "correct": 0
+    },
+    {
+        "question": "Which MongoDB command retrieves all documents?",
+        "options": ["db.collection.get()", "db.collection.find()", "db.collection.all()", "db.collection.show()"],
+        "correct": 1
+    },
+    {
+        "question": "Which React hook is used for memoization?",
+        "options": ["useMemo()", "useState()", "useEffect()", "useRef()"],
+        "correct": 0
+    },
+    {
+        "question": "What type of API does Express typically use?",
+        "options": ["REST API", "SOAP", "TCP/IP", "FTP"],
+        "correct": 0
+    },
+    {
+        "question": "Which of the following secures environment variables?",
+        "options": ["config.js", ".env", "settings.json", "secure.txt"],
+        "correct": 1
+    }
+]
