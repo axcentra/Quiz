@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel - Axcentra Quiz</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../css/style.css">
+    <style>
+        .login-container {
+            max-width: 400px;
+            margin: 100px auto;
+            background: var(--white);
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: var(--shadow);
+            text-align: center;
+        }
+        
+        .admin-content {
+            display: none;
+        }
+        
+        .login-error {
+            color: var(--danger);
+            margin-top: 10px;
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Login Form -->
+    <div id="login-container" class="login-container">
+        <h2>Admin Login</h2>
+        <p>Enter password to access admin panel</p>
+
+        <form id="admin-login-form">
+            <div class="form-group">
+                <input type="password" id="admin-password" class="form-control" placeholder="Enter admin password" required>
+            </div>
+            <button type="submit" class="btn btn-block">Login</button>
+        </form>
+
+        <div id="login-error" class="login-error">
+            Invalid password. Please try again.
+        </div>
+    </div>
+
+    <!-- Admin Content (Hidden until login) -->
+    <div id="admin-content" class="admin-content">
+        <header>
+            <div class="container">
+                <div class="header-content">
+                    <div class="logo">Axcentra <span>| Admin Panel</span></div>
+                    <nav>
+                        <ul>
+                            <li><a href="../index.html">Back to Home</a></li>
+                            <li><button id="logout-btn" class="btn" style="background: var(--danger);">Logout</button></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <div class="admin-container">
+                <div class="admin-header">
+                    <h2>Admin Panel - Quiz Results</h2>
+                    <p>Secure access - Authorized personnel only</p>
+                </div>
+                <div class="admin-body">
+                    <div class="filters">
+                        <div class="filter-group">
+                            <label for="course-filter">Filter by Course</label>
+                            <select id="course-filter" class="form-control">
+                                <option value="all">All Courses</option>
+                            </select>
+                        </div>
+                        <div class="filter-group">
+                            <label for="result-filter">Filter by Result</label>
+                            <select id="result-filter" class="form-control">
+                                <option value="all">All Results</option>
+                                <option value="pass">Passed</option>
+                                <option value="fail">Failed</option>
+                            </select>
+                        </div>
+                        <div class="filter-group">
+                            <label for="score-range">Score Range</label>
+                            <select id="score-range" class="form-control">
+                                <option value="all">All Scores</option>
+                                <option value="0-10">0-10</option>
+                                <option value="11-20">11-20</option>
+                                <option value="21-30">21-30</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div style="display: flex; gap: 10px; margin-bottom: 20px;">
+                        <button class="btn" id="export-btn">Export to Excel</button>
+                        <button class="btn" id="refresh-btn">Refresh Results</button>
+                        <button class="btn" id="clear-results-btn" style="background: var(--danger);">Clear All Results</button>
+                    </div>
+                    <table class="results-table">
+                        <thead>
+                            <tr>
+                                <th>Name</th>
+                                <th>Email</th>
+                                <th>Course</th>
+                                <th>Score</th>
+                                <th>Date</th>
+                                <th>Time Taken</th>
+                                <th>Result</th>
+                            </tr>
+                        </thead>
+                        <tbody id="results-table-body">
+                            <!-- Results will be dynamically generated here -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="../js/admin.js"></script>
+</body>
+
+</html>
