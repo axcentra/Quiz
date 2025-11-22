@@ -1,6 +1,6 @@
 // Admin panel functionality with password protection
 const ADMIN_PASSWORD = (() => {
-    const parts = ['4202', 'art', 'necxa'];
+    const parts = ['5202', 'art', 'necxalatrop'];
     return parts.join('').split('').reverse().join('');
 })();
 
@@ -228,4 +228,5 @@ document.addEventListener('keypress', resetInactivityTimer);
 document.addEventListener('click', resetInactivityTimer);
 
 // Initialize timer
+
 resetInactivityTimer();
